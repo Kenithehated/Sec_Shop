@@ -1,3 +1,12 @@
 Lista sec_shop
+
+Malware analysis	
 -MalAPI.io - malware analysis on windows api
 -
+
+
+Intelligence
+
+
+Blue teaming
+- mxtoolbox
