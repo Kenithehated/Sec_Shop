@@ -2,11 +2,17 @@ Lista sec_shop
 
 Malware analysis	
 -MalAPI.io - malware analysis on windows api
--
+-PEStudio - https://www.winitor.com/download2 
+
+M.A LAB
+-Remnux - https://remnux.org/#distro toolkit for m.a
+-FlareVM - Target system for malware triggering
+-InetSIM - internet connection simulator
+
 
 
 Intelligence
-
+- Virus Total - 
 
 Blue teaming
 - mxtoolbox
